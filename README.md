@@ -9,7 +9,7 @@ Data Analyst in Houston with 9 years of experience building reporting and dashbo
 | Project | Tools | What it covers |
 |---|---|---|
 | [Hospital Operations Dashboard](https://github.com/ishan-rajani/hospital-operations-powerbi-dashboard) | Power BI, DAX | Encounters, length of stay, readmission rate, and cost by department |
-| [Health Data 360](https://github.com/ishan-rajani/Health-Data-360-Integrated-Analytics-for-Hospital-Systems) | Tableau, Excel | Clinical, operational, and billing views in one dashboard ([live version](https://public.tableau.com/app/profile/ishan.rajani1037/viz/Book1_17683349722650/Dashboard1?publish=yes)) |
+| [Health Data 360](https://github.com/ishan-rajani/Health-Data-360-Integrated-Analytics-for-Hospital-Systems) | Tableau, Excel | Clinical, operational, and billing views in one dashboard ([live version](https://public.tableau.com/app/profile/ishan.rajani1037/viz/HealthData360/HospitalOverview)) |
 
 ## Connect
 
